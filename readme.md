@@ -225,7 +225,7 @@ Decode (PowerShell):
 ![Port Forward Local Test](Azure_AKS_Screenshots/PortforwardlocalTest.JPG)
 <!-- Shows PowerShell output of port-forwarding Grafana pod to localhost, enabling local access to Grafana UI for dashboard management. -->
 
-### Monitoring & Dashboards
+### Grafana Dashboard
 ![Grafana Default Dashboard](Azure_AKS_Screenshots/GrafanaDefaultDashboard.JPG)
 <!-- Displays Grafana's default dashboard page, confirming successful setup and access to monitoring dashboards. -->
 
